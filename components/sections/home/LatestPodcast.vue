@@ -1,5 +1,5 @@
 <template>
-    <section class="pt-20 md:pt-24 relative">
+    <!-- <section class="pt-20 md:pt-24 relative">
         <AtomsContainer>
             <div class="flex justify-between items-center pb-6">
                 <div class="">
@@ -12,7 +12,7 @@
                 </div>
             </div>
             <div class="relative">
-                <!--  -->
+               
                 <div 
                     class="flex absolute top-1/2 -left-5 -translate-y-1/2 z-10 transition duration-300 ease-linear" 
                     :class="prevIsVisible?'visible opacity-100':'insisible opacity-0'" 
@@ -21,7 +21,7 @@
                     <AtomsSwiperNavButton @click="scrollToLeft()">
                         <IconsPrevIco />
                     </AtomsSwiperNavButton>
-                </div><!--  -->
+                </div>
                 <div  
                     class="flex absolute top-1/2 -right-5 -translate-y-1/2 z-10 transition duration-300 ease-linear" 
                     :class="nextIsVisible?'visible opacity-100':'insisible opacity-0'">
@@ -58,7 +58,7 @@
                 </div>
             </div>
         </AtomsContainer>
-    </section>
+    </section> -->
 </template>
 
 <script lang="ts" setup>
