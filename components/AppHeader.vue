@@ -8,18 +8,18 @@ function toggleNav(event: MouseEvent): void {
 }
 
 const navLinks = [
-    {
-        text: "Podcast",
-        href: "/"
-    },
+    // {
+    //     text: "Podcast",
+    //     href: "/"
+    // },
     {
         text: "Solution",
         href: "/"
     },
-    {
-        text: "Blog",
-        href: "/"
-    },
+    // {
+    //     text: "Blog",
+    //     href: "/"
+    // },
     {
         text: "About",
         href: "/"
@@ -58,11 +58,11 @@ const navLinks = [
                 <div class="flex items-center bg-inherit gap-1 lg:gap-3 min-w-max">
                     <ElementsThemeSwitcher />
                     <div class="hidden lg:flex lg:items-center gap-4">
-                        <AtomsLinkBtn href="#" variant="secondary">
+                        <!-- <AtomsLinkBtn href="#" variant="secondary">
                             Signin
-                        </AtomsLinkBtn>
+                        </AtomsLinkBtn> -->
                         <AtomsLinkBtn href="#" variant="primary">
-                            Join Us
+                            Contact us
                         </AtomsLinkBtn>
                     </div>
 
@@ -83,7 +83,7 @@ const navLinks = [
                                     <li
                                         class="flex select-none cursor-pointer items-center gap-3 px-2 py-2 rounded-md transition hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-600 dark:text-gray-200">
                                         <NuxtLink to="#">
-                                            Join-us
+                                            Contact us
                                         </NuxtLink>
                                     </li>
 
