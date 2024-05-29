@@ -8,29 +8,28 @@
                             <span class="w-3 h-6 rounded-l-full flex bg-primary"></span>
                             <span class="w-3 h-6 rounded-r-full flex bg-[#f88fc2] mt-2"></span>
                         </span>
-                        <span class="text-xl font-bold text-gray-700 dark:text-white">Podux</span>
+                        <span class="text-xl font-bold text-gray-700 dark:text-white">SAUDI 8</span>
                     </NuxtLink>
 
                     <p class="text-gray-600 dark:text-gray-300 pt-6">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia nemo, veritatis
+                        Software Development Company will help you reach your ultimate requirements.
                     </p>
                 </div>
 
-                <BlocksFooterNavBlock title="Enterprise" :links="quickLinks" />
+                <!-- <BlocksFooterNavBlock title="Enterprise" :links="quickLinks" />
                 <BlocksFooterNavBlock title="Ressources" :links="ressourcesLinks" />
                 <BlocksFooterNavBlock title="Support" :links="supportLinks" />
-                <BlocksFooterNavBlock title="Enterprise" :links="quickLinks" />
+                <BlocksFooterNavBlock title="Enterprise" :links="quickLinks" /> -->
             </div>
         </AtomsContainer>
         <div class="py-2 bg-gray-200 dark:bg-[rgb(10,16,29)]">
             <AtomsContainer>
                 <div class="flex justify-between items-center gap-5 text-gray-600 dark:text-gray-300">
                     <div class="">
-                        &copy; {{ new Date().getFullYear() }} Allright Reserved. Designed by <NuxtLink target="_blank"
-                            to="#" class="font-bold text-primary">Kat Mj</NuxtLink>
+                        &copy; {{ new Date().getFullYear() }} Allright Reserved.
                     </div>
 
-                    <div class="flex items-center gap-x-3">
+                    <!-- <div class="flex items-center gap-x-3">
                         <NuxtLink target="_blank" to="#" class="transition hover:!text-primary">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor"
                                 class="w-5 h-5" viewBox="0 0 16 16">
@@ -48,14 +47,14 @@
                                 </path>
                             </svg>
                         </NuxtLink>
-                    </div>
+                    </div> -->
                 </div>
             </AtomsContainer>
         </div>
     </footer>
 </template>
 
-<script lang="ts" setup>
+<!-- <script lang="ts" setup>
 const quickLinks = [
     {
         href: "#",
@@ -109,4 +108,4 @@ const supportLinks = [
 ]
 
 
-</script>
+</script> -->
