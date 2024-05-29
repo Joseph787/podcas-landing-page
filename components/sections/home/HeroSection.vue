@@ -18,28 +18,27 @@
                 class="grid lg:grid-cols-2 gap-10 xl:gap-14 relative pt-24 lg:max-w-none max-w-2xl md:max-w-3xl mx-auto">
                 <div class="lg:py-6">
                     <div class="text-center lg:text-left">
-                        <span class="px-2 py-1 rounded-md bg-gray-100 dark:bg-body text-primary ">New season
-                            available</span>
+                        <span class="px-2 py-1 rounded-md bg-gray-100 dark:bg-body text-primary ">
+                            </span>
                         <h1 class="text-gray-800 pt-4 dark:text-white font-bold text-4xl md:text-5xl lg:text-6xl">
-                            Find and listen <br> Favorite <span
-                                class="text-transparent bg-clip-text bg-gradient-to-br from-primary to-[#8cd66a]">Podcast</span>
-                            on internet
+                            You just arrived
+                             <br> to the <span class="text-transparent bg-clip-text bg-gradient-to-br from-primary to-[#8cd66a]">Destination</span>
+                             of Software development sloutions
                         </h1>
                     </div>
 
                     <p class="text-gray-600 dark:text-gray-300 pt-8 text-center lg:text-left mx-auto max-w-xl">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum, beatae omnis ipsa magnam neque
-                        ut nam nesciunt esse fugit praesentium hic magni possimus illo consequatur.
+                        SAUDI 8 Software Development is 
                     </p>
 
                     <div class="flex items-center gap-3 pt-9 flex-col sm:flex-row sm:w-max sm:mx-auto lg:mx-0">
                         <AtomsLinkBtn href="#" variant="primary" class="w-full sm:w-max flex justify-center">
-                            Join us
+                            Contact us
                         </AtomsLinkBtn>
 
                         <AtomsLinkBtn href="#" variant="costum" costum-span-class="px-6 md:px-7 hover:bg-primary/10"
                             costum-text-color="text-primary ">
-                            <div class="flex items-center gap-3">
+                            <!-- <div class="flex items-center gap-3">
                                 <span class="p-2 rounded-full border border-primary">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"
                                         fill="currentColor" class="w-3 h-3">
@@ -47,10 +46,10 @@
                                             d="M4.5 5.653c0-1.426 1.529-2.33 2.779-1.643l11.54 6.348c1.295.712 1.295 2.573 0 3.285L7.28 19.991c-1.25.687-2.779-.217-2.779-1.643V5.653z"
                                             clip-rule="evenodd" />
                                     </svg>
-                                </span>
+                                </span> -->
 
                                 <span>
-                                    Listening Episode
+                                    
                                 </span>
                             </div>
                         </AtomsLinkBtn>
