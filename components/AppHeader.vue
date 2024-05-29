@@ -39,7 +39,7 @@ const navLinks = [
                             <span class="w-3 h-6 rounded-r-full flex bg-[#f88fc2] mt-2"></span>
                         </span>
                         <span class="text-lg text-gray-700 dark:text-white">SAUDI 8</span>
-                        <span class="text-lg text-gray-700 dark:text-white" style="font-size: 11px !importants;">Software Development</span>
+                        <span class="text-lg text-gray-700 dark:text-white" style="font-size: 11px !important;">Software Development</span>
 
                     </NuxtLink>
                 </div>
