@@ -54,7 +54,7 @@
                             </div>
                         </AtomsLinkBtn>
                     </div>
-                    <div class="pt-8 lg:pt-10 w-max mx-auto lg:mx-0">
+                    <!-- <div class="pt-8 lg:pt-10 w-max mx-auto lg:mx-0">
                         <div class="flex items-center text-center flex-col sm:flex-row gap-4 sm:gap-0">
                             <div class="flex items-center">
                                 <img src="/images/sidebiew.webp" width="40" alt="avatar"
@@ -74,7 +74,7 @@
                                 WordWide listners
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="lg:h-full  hidden md:flex">
 
@@ -85,12 +85,12 @@
                         </div>
                         <div
                             class="absolute w-3/5 h-full z-10 p-1 -translate-y-1/2 top-1/2 right-3 rounded-3xl bg-white dark:bg-body shadow-lg shadow-box-shadow border border-box-border">
-                            <img src="/images/sidebiew.webp" alt="In studio" width="500" height="auto" loading="lazy"
+                            <img src="/images/pbinp.avif" alt="In studio" width="500" height="auto" loading="lazy"
                                 class="w-full h-full rounded-2xl object-cover">
                         </div>
                         <div
                             class="absolute  -translate-y-1/2 top-1/2 h-[calc(80%-2rem)] w-[calc(40%-20px)] p-1 rounded-3xl bg-white dark:bg-body shadow-lg shadow-box-shadow border border-box-border ">
-                            <img src="/images/sidebiew.webp" alt="Happy in studio" width="200" height="auto"
+                            <img src="/images/pbinp.avif" alt="Happy in studio" width="200" height="auto"
                                 loading="lazy" class="w-full h-full rounded-2xl object-cover">
                         </div>
                     </div>
