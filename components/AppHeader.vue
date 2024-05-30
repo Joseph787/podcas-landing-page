@@ -61,7 +61,7 @@ const navLinks = [
                         <!-- <AtomsLinkBtn href="#" variant="secondary">
                             Signin
                         </AtomsLinkBtn> -->
-                        <AtomsLinkBtn href="#" variant="primary">
+                        <AtomsLinkBtn href="me@saudi8.com" variant="primary">
                             Contact us
                         </AtomsLinkBtn>
                     </div>
@@ -82,7 +82,7 @@ const navLinks = [
                                 <ul class="flex flex-col">
                                     <li
                                         class="flex select-none cursor-pointer items-center gap-3 px-2 py-2 rounded-md transition hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-600 dark:text-gray-200">
-                                        <NuxtLink to="#">
+                                        <NuxtLink to="me@saudi8.com">
                                             Contact us
                                         </NuxtLink>
                                     </li>
