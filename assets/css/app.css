@@ -39,3 +39,15 @@ body{
 .invisible-scroll::-webkit-scrollbar {
     display: none;
 }
+
+.bg-\[\#f88fc2\] {
+    background-color: rgb(41 101 176) !important;
+}
+
+.w-3 {
+    width: 1.1rem !important;
+}
+
+.h-6 {
+    height: 1.1rem !important;
+}
